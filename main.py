@@ -149,3 +149,5 @@ CMD ["node", "index.js"]
 # PR Merge: 2025-10-15 - fix/merge-5131
 
 # PR Merge: 2025-10-15 - fix/merge-3816
+
+# PR Merge: 2025-10-15 - feature/merge-6437
